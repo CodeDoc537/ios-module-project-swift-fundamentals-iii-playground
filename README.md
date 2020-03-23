@@ -10,6 +10,10 @@ On August 7th, 2019 they were:
 
 	$1 USD to $1.33 CAD
 	$1 USD to $19.70 MXN
+    
+    // Now it is:
+    $1 USD to $1.34 CAD
+    $1 USD to $20.11 MXN
 
 ## Add the Conversion Logic
 
@@ -56,4 +60,4 @@ Create a new playground in this repository called "CurrencyConverter"
 
 2. Use the `string(from:)` method to convert from a number to a String for display
 
-
+<!---->
